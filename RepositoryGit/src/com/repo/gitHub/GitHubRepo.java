@@ -30,8 +30,8 @@ public class GitHubRepo {
        int num1 = 5;
        int num2 = 9;
        int num3;
-       
-                
+       num3 = num1 + num2;
+                System.out.println(num3);
             }
         }
 	
