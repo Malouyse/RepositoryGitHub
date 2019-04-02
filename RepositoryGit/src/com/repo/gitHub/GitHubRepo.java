@@ -47,6 +47,7 @@ public class GitHubRepo {
                 int numb6 = 7;
                 System.out.println(numb6);
 
+                String morning = "sunny day";
             }
         }
 	
