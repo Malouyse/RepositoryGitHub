@@ -25,6 +25,7 @@ public class GitHubRepo {
                 System.out.println(str5);
                 
                 String git = "hello, I am new to gitHub";
+                System.out.println("git");
 
        
             }
