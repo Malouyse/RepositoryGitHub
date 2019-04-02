@@ -27,7 +27,11 @@ public class GitHubRepo {
                 String git = "hello, I am new to gitHub";
                 System.out.println("git");
 
+       int num1 = 5;
+       int num2 = 9;
+       int num3;
        
+                
             }
         }
 	
