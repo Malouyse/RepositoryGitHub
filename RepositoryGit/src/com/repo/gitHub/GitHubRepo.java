@@ -32,6 +32,7 @@ public class GitHubRepo {
        int num3;
        num3 = num1 + num2;
                 System.out.println(num3);
+               int num4 = 7;
             }
         }
 	
