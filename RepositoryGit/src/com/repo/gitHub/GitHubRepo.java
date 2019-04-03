@@ -57,6 +57,7 @@ public class GitHubRepo {
                 
                 System.out.println(morning);
 
+                String hello = " I am learning GitHub";
             }
         }
 	
